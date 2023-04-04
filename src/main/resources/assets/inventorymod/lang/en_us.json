@@ -1,3 +1,7 @@
 {
-  "item.inventorymod.coin": "Gold coin"
+  "item.inventorymod.coin": "Nojaus veidelis",
+  "item.inventorymod.group": "Group photo",
+
+
+  "itemGroup.tutorialtab": "Mod Items Tab"
 }
